@@ -109,7 +109,7 @@
                         <p class="text-white font-13">{{ __(get_option('app_copyright')) }}</p>
                     </div>
                 </div>
-                <div class="col-12 col-md-12 col-lg-4 pe-lg-0">
+               <!-- <div class="col-12 col-md-12 col-lg-4 pe-lg-0">
                     <div class="footer-bottom-nav">
                         <ul class="d-flex justify-content-end">
                             <li><a href="{{ route('instructor') }}">{{ __('Instructor') }}</a></li>
@@ -118,7 +118,7 @@
                             </li>
                             <li><a href="{{ route('verify_certificate') }}">{{ __('Verify Certificate') }}</a></li>
                         </ul>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
