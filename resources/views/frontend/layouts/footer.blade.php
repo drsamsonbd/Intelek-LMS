@@ -99,10 +99,10 @@
             <!--copyright-text-->
             <div class="row copyright-wrapper">
                 <div class="col-12 col-md-12 col-lg-4">
-                    <div class="footer-payment">
+                <!--    <div class="footer-payment">
                         <img src="{{ asset(get_option('app_footer_payment_image') ?? 'frontend/assets/img/payment-cards.png') }}"
                             alt="payments">
-                    </div>
+                    </div>-->
                 </div>
                 <div class="col-12 col-md-12 col-lg-4">
                     <div class="copyright-text text-center">
